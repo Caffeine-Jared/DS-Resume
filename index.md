@@ -1,7 +1,7 @@
 # Jared Linares
 
 <div id="webaddress">
-<a href="lin18003@byui.edu">datascience@byui.edu</a>
+<a href="lin18003@byui.edu">lin18003@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
